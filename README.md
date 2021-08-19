@@ -1,9 +1,9 @@
-# The Great Suspender
+# The Great Suspender has now been abandoned
 
 <img src="/src/img/suspendy-guy.png" width="100px" />
 
 **What happened here?**
-As of 19/08/2021, The Great Suspender has been Abandoned.
+As of 19/08/2021, we have decided to stop working on The Great Suspender, making it abandonware.
 
 **What does this mean for users?**
 This means that the extension has been discontinued, meaning it may not be downloaded?

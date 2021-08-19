@@ -1,4 +1,4 @@
-# The Great Suspender has now been abandoned
+# The Great Suspender has now been abandoned.
 
 <img src="/src/img/suspendy-guy.png" width="100px" />
 
